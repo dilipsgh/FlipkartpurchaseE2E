@@ -16,7 +16,19 @@ public class DataProviderTest {
 
 	       
 		}
+
    
+   @Test
+	public void MyTestNew()
+	
+	{
+   
+  
+  System.out.println("This is i am making the changes");
+
+      
+	}
+
    
    
    @DataProvider (name = "data-provider")
