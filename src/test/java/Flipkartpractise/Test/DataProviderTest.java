@@ -20,7 +20,7 @@ public class DataProviderTest {
 	public String[][] MyTest1()
 	
 	{
-	  String[][] test= new String[][] {  {"My name is Test"},{"My Name is Best"},{"My name is Rest"}};
+	  String[][] test= new String[][] {  {"My name is Test"},{"My Name is Best"},{"My name is Rest"},{"My name is Rahul"}};
 	  return test;
 	    
 	   	   
